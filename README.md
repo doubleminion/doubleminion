@@ -11,7 +11,7 @@
 </div>
 
 
-👨🏽‍💻 I am a: Senior Front End Developer | React Engineer working mostly in contract projects. 
+👨🏽‍💻 I am a: Senior Full Stack Developer | React Engineer working mostly in contract projects. 
 
 🖥 I have experience with Node.js, JavaScript, ExpressJS, HTML5, CSS3, Heroku and React
 
