@@ -13,7 +13,7 @@
 
 👨🏽‍💻 I am a: Senior Full Stack Developer | React Engineer working mostly in contract projects. 
 
-🖥 I have experience with Node.js, JavaScript, ExpressJS, HTML5, CSS3, Heroku and React
+🖥 I have experience with Node.js, JavaScript, ExpressJS, HTML5, CSS3, Ruby on Rails, Heroku and React
 
 💻📱 I can make sure that your site is usable and viewable on multiple user platforms. From mobile devices to tablets and desktops.
 
